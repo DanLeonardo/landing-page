@@ -224,3 +224,16 @@ body {
   padding: 0.5rem 1.5rem;
   border-radius: 0.5rem;
 }
+
+footer {
+  width: 100%;
+  height: 5rem;
+  background-color: var(--dark-blue-color);
+  color: var(--main-color);
+  display: flex;
+  align-items: center;
+}
+
+footer div {
+  margin: auto;
+}
