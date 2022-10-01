@@ -191,7 +191,7 @@ body {
 }
 
 .cta-container {
-  width: 100%;
+  width: var(--body-width);
   background-color: var(--light-blue-color);
   border-radius: 0.5rem;
   color: var(--main-color);
